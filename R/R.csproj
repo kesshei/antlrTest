@@ -7,24 +7,24 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
-
 	<ItemGroup>
-		<None Update="input">
+		<None Update="t.R">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>
+
 	<ItemGroup>
-		<Antlr4 Include="Hello.g4">
-			<Listener>false</Listener>
-			<Visitor>false</Visitor>
-			<GAtn>true</GAtn>
-			<Package>Install</Package>
-			<Error>true</Error>
-		</Antlr4>
-	</ItemGroup>
-	<ItemGroup>
-	  <PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
-	  <PackageReference Include="Antlr4BuildTasks" Version="12.8.0" />
+		<PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
+		<PackageReference Include="Antlr4BuildTasks" Version="12.8.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<Antlr4 Include="R.g4">
+			<Listener>false</Listener>
+			<Visitor>false</Visitor>
+			<GAtn>false</GAtn>
+			<Package>R</Package>
+			<Error>false</Error>
+		</Antlr4>
+	</ItemGroup>
 </Project>
