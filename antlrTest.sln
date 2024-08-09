@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluator", "Evaluator\Eval
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyFile", "PropertyFile\PropertyFile.csproj", "{4DE953EA-AF74-4558-B54D-770976EDEF97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyFileCoupled", "PropertyFileCoupled\PropertyFileCoupled.csproj", "{253C7ED7-D675-469E-BD65-4944130335B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4DE953EA-AF74-4558-B54D-770976EDEF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE953EA-AF74-4558-B54D-770976EDEF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE953EA-AF74-4558-B54D-770976EDEF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253C7ED7-D675-469E-BD65-4944130335B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253C7ED7-D675-469E-BD65-4944130335B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253C7ED7-D675-469E-BD65-4944130335B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253C7ED7-D675-469E-BD65-4944130335B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{F7A4AA60-90DD-4419-A4FC-30077CA87B4A} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
 		{CABF6A26-4512-4DDD-9F3F-AA8155A1D52A} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
 		{4DE953EA-AF74-4558-B54D-770976EDEF97} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
+		{253C7ED7-D675-469E-BD65-4944130335B4} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B312054-6C05-42E2-965D-1CC00E77C93F}
