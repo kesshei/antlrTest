@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyFile", "PropertyFil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyFileCoupled", "PropertyFileCoupled\PropertyFileCoupled.csproj", "{253C7ED7-D675-469E-BD65-4944130335B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cymbol_CallGraph", "Cymbol_CallGraph\Cymbol_CallGraph.csproj", "{C502F48C-43E9-4483-945A-F0F5237232B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cymbol_CheckSymbols", "Cymbol_CheckSymbols\Cymbol_CheckSymbols.csproj", "{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{253C7ED7-D675-469E-BD65-4944130335B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{253C7ED7-D675-469E-BD65-4944130335B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{253C7ED7-D675-469E-BD65-4944130335B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C502F48C-43E9-4483-945A-F0F5237232B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C502F48C-43E9-4483-945A-F0F5237232B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C502F48C-43E9-4483-945A-F0F5237232B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C502F48C-43E9-4483-945A-F0F5237232B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +109,8 @@ Global
 		{CABF6A26-4512-4DDD-9F3F-AA8155A1D52A} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
 		{4DE953EA-AF74-4558-B54D-770976EDEF97} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
 		{253C7ED7-D675-469E-BD65-4944130335B4} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
+		{C502F48C-43E9-4483-945A-F0F5237232B2} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
+		{CBFDCCC6-2138-4225-801F-8CB096C6CE5C} = {716D4041-2AEC-4568-BF89-CF84BEA06D90}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B312054-6C05-42E2-965D-1CC00E77C93F}
