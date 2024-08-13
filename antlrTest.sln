@@ -25,35 +25,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVListener", "CSVListener\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONListener", "JSONListener\JSONListener.csproj", "{F7A4AA60-90DD-4419-A4FC-30077CA87B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluator", "Evaluator\Evaluator.csproj", "{CABF6A26-4512-4DDD-9F3F-AA8155A1D52A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evaluator", "Evaluator\Evaluator.csproj", "{CABF6A26-4512-4DDD-9F3F-AA8155A1D52A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyFile", "PropertyFile\PropertyFile.csproj", "{4DE953EA-AF74-4558-B54D-770976EDEF97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyFile", "PropertyFile\PropertyFile.csproj", "{4DE953EA-AF74-4558-B54D-770976EDEF97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyFileCoupled", "PropertyFileCoupled\PropertyFileCoupled.csproj", "{253C7ED7-D675-469E-BD65-4944130335B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyFileCoupled", "PropertyFileCoupled\PropertyFileCoupled.csproj", "{253C7ED7-D675-469E-BD65-4944130335B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cymbol_CallGraph", "Cymbol_CallGraph\Cymbol_CallGraph.csproj", "{C502F48C-43E9-4483-945A-F0F5237232B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cymbol_CallGraph", "Cymbol_CallGraph\Cymbol_CallGraph.csproj", "{C502F48C-43E9-4483-945A-F0F5237232B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cymbol_CheckSymbols", "Cymbol_CheckSymbols\Cymbol_CheckSymbols.csproj", "{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cymbol_CheckSymbols", "Cymbol_CheckSymbols\Cymbol_CheckSymbols.csproj", "{CBFDCCC6-2138-4225-801F-8CB096C6CE5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Starter\Starter.csproj", "{20757A5D-2CBB-491D-9FD8-449090163B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Starter\Starter.csproj", "{20757A5D-2CBB-491D-9FD8-449090163B06}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 tour", "3 tour", "{C4134F63-FE88-468A-B8B3-B6B0D803A13E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestData", "TestData\TestData.csproj", "{5A388FAD-DF95-4DB3-9907-9FEBDBEF42EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestData", "TestData\TestData.csproj", "{5A388FAD-DF95-4DB3-9907-9FEBDBEF42EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExpr", "TestExpr\TestExpr.csproj", "{77E5B557-B6F9-47C4-96A2-72E778FDD43F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExpr", "TestExpr\TestExpr.csproj", "{77E5B557-B6F9-47C4-96A2-72E778FDD43F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExtractInterface", "TestExtractInterface\TestExtractInterface.csproj", "{BB0E20A6-DB2A-4D78-AABE-E70FA2EB1CE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExtractInterface", "TestExtractInterface\TestExtractInterface.csproj", "{BB0E20A6-DB2A-4D78-AABE-E70FA2EB1CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInsertSerialID", "TestInsertSerialID\TestInsertSerialID.csproj", "{7E27FAAE-1C81-4348-B2A0-C7A9CE1978CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestInsertSerialID", "TestInsertSerialID\TestInsertSerialID.csproj", "{7E27FAAE-1C81-4348-B2A0-C7A9CE1978CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLabeledExpr", "TestLabeledExpr\TestLabeledExpr.csproj", "{BD255C79-D26E-47CF-9A52-4B8957FB4568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLabeledExpr", "TestLabeledExpr\TestLabeledExpr.csproj", "{BD255C79-D26E-47CF-9A52-4B8957FB4568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibExpr", "TestLibExpr\TestLibExpr.csproj", "{6F15B0DD-8295-434C-BD0A-7C76DFCFCEE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibExpr", "TestLibExpr\TestLibExpr.csproj", "{6F15B0DD-8295-434C-BD0A-7C76DFCFCEE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRows", "TestRows\TestRows.csproj", "{9E5BAEA9-F533-445D-AC67-6B87CA79C4C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRows", "TestRows\TestRows.csproj", "{9E5BAEA9-F533-445D-AC67-6B87CA79C4C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXMLLexer", "TestXMLLexer\TestXMLLexer.csproj", "{8BAE942F-8995-4773-BADA-44ED7AED0891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestXMLLexer", "TestXMLLexer\TestXMLLexer.csproj", "{8BAE942F-8995-4773-BADA-44ED7AED0891}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 actions", "4 actions", "{732D4204-C5B4-4728-ACB2-33114C24ECB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestToolExpr", "TestToolExpr\TestToolExpr.csproj", "{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +153,10 @@ Global
 		{8BAE942F-8995-4773-BADA-44ED7AED0891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BAE942F-8995-4773-BADA-44ED7AED0891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BAE942F-8995-4773-BADA-44ED7AED0891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +184,7 @@ Global
 		{6F15B0DD-8295-434C-BD0A-7C76DFCFCEE9} = {C4134F63-FE88-468A-B8B3-B6B0D803A13E}
 		{9E5BAEA9-F533-445D-AC67-6B87CA79C4C7} = {C4134F63-FE88-468A-B8B3-B6B0D803A13E}
 		{8BAE942F-8995-4773-BADA-44ED7AED0891} = {C4134F63-FE88-468A-B8B3-B6B0D803A13E}
+		{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC} = {732D4204-C5B4-4728-ACB2-33114C24ECB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B312054-6C05-42E2-965D-1CC00E77C93F}
