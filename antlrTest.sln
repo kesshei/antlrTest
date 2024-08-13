@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSVAction", "TestCSVAct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKeywordsAction", "TestKeywordsAction\TestKeywordsAction.csproj", "{6EF95E67-6F39-43CC-B6E0-D58F8A127090}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 predicates", "5 predicates", "{4B7558EF-A76F-451E-A4C4-867BFA3634E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCppStat", "TestCppStat\TestCppStat.csproj", "{053570E1-7AE3-4D32-917E-605D1B3D2DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +173,10 @@ Global
 		{6EF95E67-6F39-43CC-B6E0-D58F8A127090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EF95E67-6F39-43CC-B6E0-D58F8A127090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EF95E67-6F39-43CC-B6E0-D58F8A127090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053570E1-7AE3-4D32-917E-605D1B3D2DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053570E1-7AE3-4D32-917E-605D1B3D2DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053570E1-7AE3-4D32-917E-605D1B3D2DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053570E1-7AE3-4D32-917E-605D1B3D2DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -199,6 +207,7 @@ Global
 		{DB56123C-FF9D-4FF4-B0F5-2A7B2F8258FC} = {732D4204-C5B4-4728-ACB2-33114C24ECB5}
 		{C824B4C1-820F-46BD-813E-D2F84CE4361B} = {732D4204-C5B4-4728-ACB2-33114C24ECB5}
 		{6EF95E67-6F39-43CC-B6E0-D58F8A127090} = {732D4204-C5B4-4728-ACB2-33114C24ECB5}
+		{053570E1-7AE3-4D32-917E-605D1B3D2DB4} = {4B7558EF-A76F-451E-A4C4-867BFA3634E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B312054-6C05-42E2-965D-1CC00E77C93F}
