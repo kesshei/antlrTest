@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEnum2", "TestEnum2\Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPredCppStat", "TestPredCppStat\TestPredCppStat.csproj", "{016E2BF7-E174-47E5-A2BD-FDFC0FD99AB4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 errors", "6 errors", "{DB2BE4FB-C282-46C2-BAC3-0D3E55E171B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAmbig", "TestAmbig\TestAmbig.csproj", "{4AF1A664-A6E2-42F6-BDA1-89A5621DE5CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +199,10 @@ Global
 		{016E2BF7-E174-47E5-A2BD-FDFC0FD99AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016E2BF7-E174-47E5-A2BD-FDFC0FD99AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016E2BF7-E174-47E5-A2BD-FDFC0FD99AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF1A664-A6E2-42F6-BDA1-89A5621DE5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF1A664-A6E2-42F6-BDA1-89A5621DE5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF1A664-A6E2-42F6-BDA1-89A5621DE5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF1A664-A6E2-42F6-BDA1-89A5621DE5CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -229,6 +237,7 @@ Global
 		{8639ED7D-817E-460C-88F4-EECEF0E4175E} = {4B7558EF-A76F-451E-A4C4-867BFA3634E3}
 		{03ABE89C-4820-49A1-A067-AB00B348553B} = {4B7558EF-A76F-451E-A4C4-867BFA3634E3}
 		{016E2BF7-E174-47E5-A2BD-FDFC0FD99AB4} = {4B7558EF-A76F-451E-A4C4-867BFA3634E3}
+		{4AF1A664-A6E2-42F6-BDA1-89A5621DE5CB} = {DB2BE4FB-C282-46C2-BAC3-0D3E55E171B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B312054-6C05-42E2-965D-1CC00E77C93F}
